@@ -95,7 +95,7 @@ section {
 footer {
     display: flex;
     height: 8vh;
-    /* background-color: rgb(77, 105, 167); */
+    background-color: rgb(77, 105, 167);
     color: white;
     align-items: center;
     justify-content: center;
